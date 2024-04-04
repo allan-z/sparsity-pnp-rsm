@@ -24,4 +24,4 @@ What's more, we include implementations of several other methods:
   - Plug-and-Play (PnP) priors
   - and combinations of them
 
-with general version and accelerated version of that using FFT that is tailored for the specific problem of rotating scatter mask gamma imaging.
+with a general version and an accelerated version of that using FFT that is tailored for the specific problem of rotating scatter mask gamma imaging.
